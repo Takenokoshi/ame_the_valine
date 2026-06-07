@@ -1,0 +1,20 @@
+{
+    "type": "ame_the_valine:valine_reactor",
+    "leftInput": {
+        "amount": 100,
+        "gas": "mekanism_the_valine:valine3g"
+    },
+    "rightInput": {
+        "amount": 100,
+        "gas": "mekanism_extras:naquadah_uranium_fuel"
+    },
+    "energy_generation": 214748364700,
+    "leftGasOutput": {
+        "amount": 10000000,
+        "gas": "mekanism_extras:polonium-208"
+    },
+    "rightGasOutput": {
+        "amount": 1000,
+        "gas": "mekanismelements:americium"
+    }
+}

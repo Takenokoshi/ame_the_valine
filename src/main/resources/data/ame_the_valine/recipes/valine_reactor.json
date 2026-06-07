@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "B": {
+            "item": "astral_mekanism:supreme_quantum_compact_naquadah_reactor"
+        },
+        "V": {
+            "item": "evolvedmekanism:alloy_exoversal"
+        },
+        "X": {
+            "item": "mekanism_extras:alloy_spectrum"
+        },
+        "C": {
+            "item": "emextras:infinite_multiversal_control_circuit"
+        },
+        "P": {
+            "item": "evolvedmekanism:qio_drive_boosted"
+        },
+        "Q": {
+            "item": "mekanism_extras:qio_drive_collapse"
+        }
+    },
+    "pattern": [
+        "XCV",
+        "PBQ",
+        "VCX"
+    ],
+    "result": {
+        "item": "ame_the_valine:valine_reactor",
+        "count": 1
+    }
+}

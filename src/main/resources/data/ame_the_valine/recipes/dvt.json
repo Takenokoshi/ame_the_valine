@@ -1,0 +1,20 @@
+{
+    "type": "ame_the_valine:valine_reactor",
+    "leftInput": {
+        "amount": 100,
+        "gas": "mekanism_the_valine:deuterium_valine3g_tritium"
+    },
+    "rightInput": {
+        "amount": 100000,
+        "gas": "mekanism:hydrogen"
+    },
+    "energy_generation": 843511848735,
+    "leftGasOutput": {
+        "amount": 1000,
+        "gas": "mekanismelements:helium"
+    },
+    "rightGasOutput": {
+        "amount": 1000,
+        "gas": "astral_mekanism:astral_ether"
+    }
+}

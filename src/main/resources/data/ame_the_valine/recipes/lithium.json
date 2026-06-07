@@ -1,0 +1,20 @@
+{
+    "type": "ame_the_valine:valine_reactor",
+    "leftInput": {
+        "amount": 100,
+        "gas": "mekanism_the_valine:valine3g"
+    },
+    "rightInput": {
+        "amount": 100,
+        "gas": "mekanism:lithium"
+    },
+    "energy_generation": 43578546,
+    "leftGasOutput": {
+        "amount": 100,
+        "gas": "mekanismgenerators:fusion_fuel"
+    },
+    "rightGasOutput": {
+        "amount": 10000,
+        "gas": "mekanism:hydrogen"
+    }
+}

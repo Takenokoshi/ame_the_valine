@@ -1,0 +1,6 @@
+{
+    "parent": "astral_mekanism:block/machine_base",
+    "textures": {
+        "front": "ame_the_valine:block/valine_reactor_front"
+    }
+}
