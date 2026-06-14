@@ -2,5 +2,7 @@
     "block.ame_the_valine.valine_reactor": "バリンリアクター",
     "container.ame_the_valine.valine_reactor": "バリンリアクター",
     "description.ame_the_valine.valine_reactor": "バリン3gは桁違いなので核反応に利用できます。",
+    "gas.ame_the_valine.valine_naquadah_fuel": "バリンナクアダ燃料",
+    "gas.ame_the_valine.valine_uranium_fuel": "バリンウラン燃料",
     "title.ame_the_valine.name": "Astral Mekanism & Energistics:The Valine"
 }

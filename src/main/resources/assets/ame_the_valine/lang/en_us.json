@@ -2,5 +2,7 @@
     "block.ame_the_valine.valine_reactor": "Valine Reactor",
     "container.ame_the_valine.valine_reactor": "Valine Reactor",
     "description.ame_the_valine.valine_reactor": "This machine utilizes the imcomparable properties of Valine3g to initiate nuclear reactions.",
+    "gas.ame_the_valine.valine_naquadah_fuel": "Valine Naquadah Fuel",
+    "gas.ame_the_valine.valine_uranium_fuel": "Valine Uranium Fuel",
     "title.ame_the_valine.name": "Astral Mekanism & Energistics:The Valine"
 }

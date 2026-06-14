@@ -1,0 +1,20 @@
+{
+    "type": "ame_the_valine:valine_reactor",
+    "leftInput": {
+        "amount": 100,
+        "gas": "mekanism_the_valine:valine3g"
+    },
+    "rightInput": {
+        "amount": 100,
+        "gas": "mekanism:spent_nuclear_waste"
+    },
+    "energy_generation": 934928492,
+    "leftGasOutput": {
+        "amount": 500,
+        "gas": "mekanism_the_valine:saltless_dried_soysouce"
+    },
+    "rightGasOutput": {
+        "amount": 500,
+        "gas": "mekanism:osmium"
+    }
+}

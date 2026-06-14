@@ -1,0 +1,20 @@
+{
+    "type": "ame_the_valine:valine_reactor",
+    "leftInput": {
+        "amount": 1000,
+        "gas": "mekanism_the_valine:deuterium_valine3g_tritium"
+    },
+    "rightInput": {
+        "amount": 100000,
+        "gas": "mekanism_extras:polonium-208"
+    },
+    "energy_generation": 4792974852948,
+    "leftGasOutput": {
+        "amount": 500000,
+        "gas": "mekanism:polonium"
+    },
+    "rightGasOutput": {
+        "amount": 1000,
+        "gas": "mekanism:spent_nuclear_waste"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "ame_the_valine:valine_reactor",
+    "leftInput": {
+        "amount": 100,
+        "gas": "mekanism_the_valine:deuterium_valine3g_tritium"
+    },
+    "rightInput": {
+        "amount": 1000,
+        "gas":"mekanismelements:americium"
+    },
+    "energy_generation": 193748235,
+    "leftGasOutput": {
+        "amount": 1000,
+        "gas": "mekanism:spent_nuclear_waste"
+    },
+    "rightGasOutput": {
+        "amount": 50,
+        "gas": "astral_mekanism:netherite_ether"
+    }
+}
